@@ -1,6 +1,6 @@
 # Linux Tahoe Style Disk
 
-<img src="Linux/Garuda.png" alt="Github Project" style="width:25%;"><img src="Linux/Nixos.png" alt="Github Project" style="width:25%;"><img src="Linux/Ubuntu.png" alt="Github Project" style="width:25%;"><img src="Linux/CentOS.png" alt="Github Project" style="width:25%;">
+<img src="Linux/Garuda.png" alt="Github Project" style="width:25%;"><img src="Linux/FreeBSD.png" alt="Github Project" style="width:25%;"><img src="Linux/Ubuntu.png" alt="Github Project" style="width:25%;"><img src="Linux/Artix.png" alt="Github Project" style="width:25%;">
 ### View ➥ [IconSet 512px](https://github.com/chris1111/Linux-Tahoe-Style-Disk/blob/main/View-Set.md)
 
 Downloads: Release ➤ [Linux Tahoe Style Disk](https://github.com/chris1111/Linux-Tahoe-Style-Disk/releases/download/V1/Linux_Icons-512px.zip)
