@@ -63,7 +63,7 @@
 <img src="Linux/Ubuntu_Unity.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux/Ubuntu_Studio.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux/Windows10.png" alt="Github Project" style="width:20%;"> 
-<img src="Linux/Windows11_Alt.png" alt="Github Project" style="width:20%;"> 
+<img src="Linux/Windows11.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux/Windows.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux/Void.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux/Xubuntu.png" alt="Github Project" style="width:20%;"> 
@@ -71,4 +71,4 @@
 
 
 
-[Back On ➦ Top](https://github.com/chris1111/Linux_Square_Grey/blob/main/View-Set.md#view-set)
+[Back On ➦ Top](https://github.com/chris1111/Linux-Tahoe-Style-Disk/blob/main/View-Set.md#view-set)
