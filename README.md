@@ -1,11 +1,11 @@
 # Linux Tahoe Style Disk
 
 
-### Collor Disk ⬇︎
+### Collor macOS Tahoe Disk ⬇︎
 
 <img src="Linux/Garuda.png" alt="Github Project" style="width:25%;"><img src="Linux/FreeBSD.png" alt="Github Project" style="width:25%;"><img src="Linux/Ubuntu.png" alt="Github Project" style="width:25%;"><img src="Linux/Artix.png" alt="Github Project" style="width:25%;">
 
-### Original Grey Disk ⬇︎
+### Original macOS Tahoe Grey Disk ⬇︎
 
 <img src="Grey_Disk/Kubuntu.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Manjaro.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Ubuntu_Studio.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Black_Arch.png" alt="Github Project" style="width:25%;">
 
