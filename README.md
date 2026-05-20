@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/chris1111/Linux-Tahoe-Style-Disk/blob/main/LICENSE)
 # Linux Tahoe Style Disk
 
 
