@@ -23,7 +23,7 @@
 <img src="Grey_Disk/Gentoo.png" alt="Github Project" style="width:20%;"> 
 <img src="Grey_Disk/Kali.png" alt="Github Project" style="width:20%;"> 
 <img src="Grey_Disk/Kaos.png" alt="Github Project" style="width:20%;"> 
-<img src="Grey_Disk/Knoppix.png" alt="Github Project" style="width:20%;"> 
+<img src="Grey_Disk/Knoopix.png" alt="Github Project" style="width:20%;"> 
 <img src="Grey_Disk/Kubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Grey_Disk/Linux.png" alt="Github Project" style="width:20%;"> 
 <img src="Grey_Disk/Linuxfx_11.png" alt="Github Project" style="width:20%;">
