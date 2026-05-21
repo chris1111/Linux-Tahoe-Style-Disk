@@ -8,7 +8,7 @@
 
 ### Original macOS Tahoe Grey Disk ⬇︎ View All ➥ [Grey Disk IconSet 512px](https://github.com/chris1111/Linux-Tahoe-Style-Disk/blob/main/View-GreySet.md)
 
-<img src="Grey_Disk/Kubuntu.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Manjaro.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Ubuntu_Studio.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Black_Arch.png" alt="Github Project" style="width:25%;">
+<img src="Grey_Disk/Kubuntu.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Linux.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Ubuntu_Studio.png" alt="Github Project" style="width:25%;"><img src="Grey_Disk/Black_Arch.png" alt="Github Project" style="width:25%;">
 
 Downloads: Release ➤ [Linux Tahoe Style Disk](https://github.com/chris1111/Linux-Tahoe-Style-Disk/releases/download/V1/Linux_Icons-512px.zip)
 
